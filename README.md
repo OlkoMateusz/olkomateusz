@@ -1,11 +1,24 @@
-<h1>Hi 👋, I'm Matthew</h1>
- 💫 About Me:
-A passionate student, learning new things and developing my skills.
 
+# Mateusz Olko  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OlkoMateusz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OlkoMateusz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OlkoMateusz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 💡 About Me  
+I am a **passionate and motivated student** dedicated to continuous learning and skill development in software engineering. My primary interests lie in **systems programming, software development, and web technologies**. I enjoy solving complex problems, optimizing code, and exploring new programming paradigms.  
+
+## 🛠️ Technical Skills  
+- **Programming Languages:** C, C++, Java, JavaScript  
+- **Databases:** MySQL  
+- **Software Development:** Algorithm optimization, object-oriented programming, data structures  
+- **Web Development:** Frontend and backend fundamentals  
+
+## 📚 Current Learning Goals  
+- Deepening my understanding of **low-level programming and system architecture**  
+- Exploring modern **web frameworks and backend development**  
+- Enhancing my knowledge of **data structures and algorithms** for efficient problem-solving  
+
+## 🎯 Projects & Contributions  
+I actively work on **personal projects**, open-source contributions, and academic assignments to enhance my skills. My repositories showcase a variety of **coding challenges, software development projects, and web applications**.  
+
+## 📬 Get in Touch  
+I'm always open to collaboration and knowledge-sharing. Feel free to reach out via:  
+📧 Email: [mateuszolkobiznes@gmail.com]  
+
